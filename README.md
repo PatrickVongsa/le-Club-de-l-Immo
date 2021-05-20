@@ -23,6 +23,8 @@ Collaborateurs :
 - [Pierre-Emmanuel CAPEL](https://github.com/PierreCapel)
 - Patrick VONGSA
 
+Superviseur :
+[Vincent VAUR](https://github.com/vincent-vaur)
 
 ## Déploiement
 Your project master branch will be deployed on https://tlse-php-2021-march-project-2-group-2.phprover.wilders.dev
